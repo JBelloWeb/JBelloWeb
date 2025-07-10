@@ -15,6 +15,19 @@
 
 <br>
 
+##
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23F0652B?style=for-the-badge&logo=%3Ci%20class%3D%22fa-brands%20fa-instagram%22%3E%3C%2Fi%3E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%23099CE3?style=for-the-badge&logo=%3Ci%20class%3D%22fa-brands%20fa-instagram%22%3E%3C%2Fi%3E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23FCD83E?style=for-the-badge&logo=%3Ci%20class%3D%22fa-brands%20fa-instagram%22%3E%3C%2Fi%3E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootsrap-%23860AFB?style=for-the-badge&logo=%3Ci%20class%3D%22fa-brands%20fa-instagram%22%3E%3C%2Fi%3E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Wordpress-%231B769C?style=for-the-badge&logo=%3Ci%20class%3D%22fa-brands%20fa-instagram%22%3E%3C%2Fi%3E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=%3Ci%20class%3D%22fa-brands%20fa-instagram%22%3E%3C%2Fi%3E">
+</div>
+
+
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
