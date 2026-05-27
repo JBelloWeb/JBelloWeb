@@ -36,6 +36,19 @@
 
 <br>
 
+## 🚀 Proyectos Destacados
+
+<p align="center">
+  <a href="https://github.com/JBelloWeb/prode-mundial-254">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=JBelloWeb&repo=prode-mundial-254&theme=algolia" alt="Prode Mundial 254" />
+  </a>
+  <a href="https://github.com/JBelloWeb/Bello-Fit">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=JBelloWeb&repo=Bello-Fit&theme=algolia" alt="Bello Fit" />
+  </a>
+</p>
+
+<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
