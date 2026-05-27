@@ -43,30 +43,12 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=JBelloWeb&repo=prode-mundial-254&theme=algolia" alt="Prode Mundial 254" />
 </a>
 
-Prode Mundial 254 es una plataforma web de pronósticos deportivos donde los usuarios compiten en un ranking global prediciendo resultados. El sistema cuenta con una interfaz moderna y "Mobile-First", gestión robusta de usuarios y bases de datos, y un flujo de correos automatizados en tiempo real.
-
-**✨ Características Principales**
-- **📱 Diseño Mobile-First:** Interfaz altamente optimizada para celulares. Elementos táctiles ("touch targets") adaptados, tarjetas expansivas y navegación amigable.
-- **🔐 Autenticación y Sesiones:** Sistema de registro, login y manejo de sesiones de usuario totalmente seguro.
-- **⚽ Fase de Grupos y Eliminatorias:** Vistas dedicadas para predecir los partidos de grupos y un cuadro interactivo ("bracket") para la fase de Mata-Mata.
-- **📊 Dashboard de Usuario:** Panel de control con cálculo de puntajes en tiempo real (Puntos totales, plenos y aciertos parciales) y un ranking global para ver la posición contra otros jugadores.
-- **✉️ Correos Automatizados:** Integración de Webhooks que disparan un correo de bienvenida instantáneo con credenciales de acceso apenas se registra un nuevo usuario.
-
 ---
 
 ### [Bello Fit](https://github.com/JBelloWeb/Bello-Fit)
 <a href="https://github.com/JBelloWeb/Bello-Fit">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=JBelloWeb&repo=Bello-Fit&theme=algolia" alt="Bello Fit" />
 </a>
-
-Una aplicación web progresiva (SPA) diseñada para el seguimiento diario de métricas de salud (agua, sueño) y rutinas de entrenamiento muscular, con visualización de datos en tiempo real.
-  
-**📌 Características Principales**
-- **💧 Gestión de Hábitos:** Registro diario de consumo de agua y horas de sueño.
-- **🏋️ Tracking de Entrenamiento:** Carga detallada de ejercicios (músculo, series, repeticiones y peso).
-- **📅 Calendario Deslizable:** Navegación fluida entre fechas históricas mediante un carrusel horizontal.
-- **📊 Panel de Analíticas ("Dark Mode"):** Un bottom sheet interactivo con gráficos de rendimiento muscular histórico y promedios de hábitos.
-- **☁️ Sincronización en la Nube:** Persistencia de datos en tiempo real utilizando PostgreSQL.
 
 <br>
 
